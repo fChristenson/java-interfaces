@@ -2,7 +2,7 @@
 
 ## What we will cover
 
-* What is an interface
+* What is an interface?
 * When are they useful?
 
 ## Notes
